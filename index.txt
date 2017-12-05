@@ -32,7 +32,7 @@ Schedule For 6/12/2017
    Take away from module 1:
     .No spacing before first command
         
-4. Complete module 2
+4. Practice Git from ground up and Complete module 2
 5. Complete module 3
 6. Complete module 4
 7. Complete module 5
