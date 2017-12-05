@@ -2,6 +2,7 @@
 
 1. Install git - Done.
 2. Create repo - Done.
-3. Check status
-4. Commit
-5. Push
+3. Check status - done
+4. Commit - done.
+5. Push - done.
+6. Change again locally and push.
