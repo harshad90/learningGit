@@ -5,4 +5,4 @@
 3. Check status - done
 4. Commit - done.
 5. Push - done.
-6. Change again locally and push.
+6. Change again locally and push. - Done.
