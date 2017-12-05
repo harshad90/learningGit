@@ -1,0 +1,7 @@
+12/5/2017
+
+1. Install git - Done.
+2. Create repo - Done.
+3. Check status
+4. Commit
+5. Push
