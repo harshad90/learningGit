@@ -1,4 +1,4 @@
-12/5/2017
+5/12/2017
 ...........................................................
 1. Install git - Done. 
 2. Create repo - Done.
@@ -8,14 +8,29 @@
 6. Change again locally and push. - Done.
 
 Commands List
- 1.git init (initialisation of repo locally)
- 2.create files (write your programs and test them locally)
- 3.git add filename (adding file to staging environment)
- 4.git commit -m "[your mssg]" (commit the changes)
- 5.git remote add origin https://github.com/harshad90/[reponame].git
- 6.git push -u origin master
+ 1. git init (initialisation of repo locally)
+ 2. create files (write your programs and test them locally)
+ 3. git add filename (adding file to staging environment)
+ 4. git commit -m "[your mssg]" (commit the changes)
+ 5. git remote add origin https://github.com/harshad90/[reponame].git
+ 6. git push -u origin master
 ...........................................................
 Reference links for 12/5/2017
 http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 ********************************************************************************************************
+Schedule For 6/12/2017
+1. Sign up on Udacity.
+2. Enroll in course - CS 101
+3. Complete module 1
+4. Complete module 2
+5. Complete module 3
+6. Complete module 4
+7. Complete module 5
+8. Complete module 6
+9. Complete module 7
+10. Complete module 8
+11. Complete module 9
+12. Complete module 10
+13. Complete module 11
+14. Complete module 12
