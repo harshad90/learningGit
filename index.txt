@@ -23,6 +23,9 @@ Schedule For 6/12/2017
 1. Sign up on Udacity.
 2. Enroll in course - CS 101
 3. Complete module 1
+    HOW COMPUTER SOLVE BIG PROBLEMS?
+   -by dividing big problem into smaller problem and solving them one by one.
+   
 4. Complete module 2
 5. Complete module 3
 6. Complete module 4
