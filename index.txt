@@ -1,8 +1,21 @@
 12/5/2017
-
-1. Install git - Done.
+...........................................................
+1. Install git - Done. 
 2. Create repo - Done.
 3. Check status - done
 4. Commit - done.
 5. Push - done.
 6. Change again locally and push. - Done.
+
+Commands List
+ 1.git init (initialisation of repo locally)
+ 2.create files (write your programs and test them locally)
+ 3.git add filename (adding file to staging environment)
+ 4.git commit -m "[your mssg]" (commit the changes)
+ 5.git remote add origin https://github.com/harshad90/[reponame].git
+ 6.git push -u origin master
+...........................................................
+Reference links for 12/5/2017
+http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+********************************************************************************************************
