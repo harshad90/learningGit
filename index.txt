@@ -26,8 +26,32 @@ Schedule For 6/12/2017
    Video 1:
    HOW COMPUTER SOLVE BIG PROBLEMS?
    -by dividing big problem into smaller problem and solving them one by one.
+   
    Video 2:
    Corpus - large dataset in text format.
+   
+   Video 9:
+   Why programming language is required?
+   Because natural language is alot ambiguious different person can interpret a sentence differently.But, the computer interpreter
+   interpret the computer program in same sense as written by the programmer.Also, verbosity alot many lines are required to explain
+   in natural language as compared to computer program for the same task.
+   
+   Video 10:
+   Why grammar is important in programming?
+   Because a language like python knows certain rules and when it sees statements not written according to them it throws an error.
+   eg.+2+3 python throws error as it sees '+' infront of 2 
+   
+   John Backus lead designer of Fortran
+   
+   Video 11.
+   Backus Normal Form(BNF)?
+   precisely describe language in a way that it is simple and concise. 
+   syntax::  <Non-Terminal>->replacement
+   
+   Video 19:
+   = is not equal to but assignment operator like <=
+   eg: speed_light=2.99 value of 2.99 is assigned tor
+   
    
    Take away from module 1:
     .No spacing before first command
