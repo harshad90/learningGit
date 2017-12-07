@@ -52,6 +52,10 @@ Schedule For 6/12/2017
    = is not equal to but assignment operator like <=
    eg: speed_light=2.99 value of 2.99 is assigned tor
    
+   Video 23:
+   valid strings are between either '' or ""
+   
+   do video 27 to video 37 again
    
    Take away from module 1:
     .No spacing before first command
