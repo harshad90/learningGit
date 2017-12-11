@@ -1,0 +1,8 @@
+pwd       -> print working directory
+hostname  -> print hostname
+mkdir     -> create a new working directory
+dir       -> shows various files/folders in current directory
+rmdir     -> removes directory
+ls        -> list files in current directory
+cd        -> change directory
+
